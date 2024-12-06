@@ -1,9 +1,0 @@
-energi
-gula
-karbohidrat
-lemak
-lemak jenuh
-natrium
-nutrition_box
-protein
-quantity
