@@ -1,0 +1,47 @@
+gula
+protein
+karbohidrat
+energi
+lemak
+takaran saji
+kalori
+kolesterol
+natrium
+serat
+vitamin
+kalsium
+zat besi
+karbohidrat total
+gula
+protein
+lemak total
+lemak jenuh
+lemak tak jenuh
+kolesterol
+natrium
+serat
+vitamin A
+vitamin C
+kalsium
+zat besi
+kalium
+magnesium
+fosfor
+seng
+tembaga
+selenium
+flouride
+asam folat
+asam pantotenat
+vitamin B6
+vitamin B12
+vitamin D
+vitamin E
+vitamin K
+tiamin
+riboflavin
+niacin
+kolin
+betain
+asam lemak jenuh
+asam lemak tak jenuh
